@@ -1,6 +1,6 @@
 // Pivot Chords
 //
-// Copyright (C) 2018  Bill Hails
+// Copyright (C) 2018 and 2020  Bill Hails and rewrote by Sunny090628
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -25,7 +25,7 @@ import QtQuick.Dialogs 1.1
 MuseScore {
     version: "1.0.0"
     menuPath: "Plugins.Composing Tools.Pivot Chords"
-    description: "Compositional Assistant"
+    description: "Compositional Assistant for finding pivot chords when modulating"
     pluginType: "dialog"
     width: 400
     height: 250
