@@ -1,7 +1,7 @@
 # Pivot-Chords
 This is an version of the Pivot Chords plugin by billhails for MuseScore 3.
 # Installation
-1.  Download .zip file.
+1.  Download .zip file. (or from https://mega.nz/folder/jAtQXa6K#BuC8VPQQx_qMp6vxYW2HKA)
 2.  Unzip to Plugins folder in Documents.
 3.  Boot MuseScore 3.
 4.  Go to Plugins Manager and enable plugin.
