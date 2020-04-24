@@ -27,8 +27,8 @@ MuseScore {
     menuPath: "Plugins.Composing Tools.Pivot Chords"
     description: "Compositional Assistant for finding pivot chords when modulating"
     pluginType: "dialog"
-    width: 400
-    height: 250
+    width: 450
+    height: 300
 
     function pivotChords() {
 
