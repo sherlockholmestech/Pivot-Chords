@@ -23,9 +23,9 @@ import QtQuick.Layouts 1.1
 import QtQuick.Dialogs 1.1
 
 MuseScore {
-    version: "1.0.0"
+    version: "0.1.1"
     menuPath: "Plugins.Composing Tools.Pivot Chords"
-    description: "Compositional Assistant for finding pivot chords when modulating"
+    description: "Compositional Assistant for finding pivot chords when modulating to another key."
     pluginType: "dialog"
     width: 450
     height: 300
@@ -326,4 +326,4 @@ MuseScore {
     }
 }
 
-// vim: ft=javascript
+// vim: ft=qml
