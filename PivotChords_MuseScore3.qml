@@ -326,4 +326,4 @@ MuseScore {
     }
 }
 
-// vim: ft=qml
+// vim: ft=javascript
